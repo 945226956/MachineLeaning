@@ -1,9 +1,9 @@
-package com.machinelearning.arithmetic;
+package com.arithmetic.machinelearning;
 
 import java.math.BigDecimal;
 import java.util.List;
 
-import com.machinelearning.bean.TrainData_room;
+import com.arithmetic.machinelearning.bean.TrainData_room;
 
 public class GradientDescend {
 	//常量 theta0

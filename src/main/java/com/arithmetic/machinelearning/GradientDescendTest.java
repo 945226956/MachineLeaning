@@ -1,11 +1,10 @@
-package com.machinelearning;
+package com.arithmetic.machinelearning;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.machinelearning.arithmetic.GradientDescend;
-import com.machinelearning.bean.TrainData_room;
+import com.arithmetic.machinelearning.bean.TrainData_room;
 
 public class GradientDescendTest {
 	//f(size,room_num)=1+2*size+3*room_num;

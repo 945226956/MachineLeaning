@@ -1,4 +1,4 @@
-package com.machinelearning.bean;
+package com.arithmetic.machinelearning.bean;
 
 import java.math.BigDecimal;
 
