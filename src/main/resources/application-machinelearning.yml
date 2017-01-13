@@ -1,0 +1,17 @@
+server:
+    port: 9091
+    context-path: /
+logging:
+    level:
+        com.links86: DEBUG
+
+spring:
+    mvc.view:
+            prefix: /WEB-INF/jsp/
+            suffix: .jsp
+    freemarker:
+        cache: false
+        request-context-attribute: request
+    #redis:
+        #host: localhost
+        #port: 6379
